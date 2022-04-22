@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on ...CAVERN
+🔭 I’m currently working on the CAVERN project
+
+📫 How to reach me: selliott735@gmail.com or selliott@bournemouth.ac.uk
 <!--
 **selliott735/selliott735** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
